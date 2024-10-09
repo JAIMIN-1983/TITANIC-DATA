@@ -1,2 +1,2 @@
 # TITANIC-DATA
-Titanic Datta Analysis in Power BI
+Titanic Data Analysis in Power BI
